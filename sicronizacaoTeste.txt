@@ -1,3 +1,0 @@
-Teste de sicronizacao entre os repositorios.
-
-OBS.: Isso e um TESTE.
