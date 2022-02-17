@@ -11,11 +11,11 @@ public class Q1Escada {
 		int numeroDelinhas, numeroDeColuna, quantidadeDeAsteriscos;
 
 		
-		Scanner sc = new Scanner(System.in); 									// cria o objeto sc instanciado da classe Scanner
+		Scanner sc = new Scanner(System.in); 					// cria o objeto sc instanciado da classe Scanner
 		System.out.println("Digite um número inteiro para o valor de N: ");
-		quantidadeDeAsteriscos = sc.nextInt(); 									// O método nextInt(), da instância da classe Scanner, 
-																				// lê o valor digitado e o armazena na variável
-																				// quantidadeDeAsteriscos.		
+		quantidadeDeAsteriscos = sc.nextInt(); 					// O método nextInt(), da instância da classe Scanner, 
+										       // lê o valor digitado e o armazena na variável
+										      // quantidadeDeAsteriscos.		
 		// conta a quantidade de linhas.
 		for (numeroDelinhas = 1; numeroDelinhas <= quantidadeDeAsteriscos; numeroDelinhas++) {
 			
