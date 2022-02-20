@@ -11,7 +11,7 @@ Procedimentos para execução dos códigos:
 1. clone o repositório.
 2. Abra um prompt de comando se estiver em um ambiente MS-Windows ou se estiver em uma distribuição Linux, abra um Terminal.
 3. Abra o diretório onde você colocou o clone do projetode. Ex.: cd desafioCapgemini
-4. Acesse o sub diretório: desafioCapgemini/DesafioCapgemini/src
+4. Acesse o subdiretório: desafioCapgemini/DesafioCapgemini/src
 5. Dentro do diretorio digite o comando: java "nome do arquivo", sem as aspas.
 A lista dos nome dos arquivos são:
 Q1Escada
