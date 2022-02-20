@@ -16,12 +16,13 @@ Procedimentos para execução dos códigos:
 A lista dos nome dos arquivos são:
 Q1Escada,
 Q2Senha,
-Q3Anagrama,
+Q3Anagrama.
 
-Para executar digite em seu prompt ou terminal:
+Para executar digite em seu prompt ou terminal os comandos:
 java Q1Escada,
 java Q2Senha,
 java Q3Anagrama
+OBS.: Um comando por vez :)
 
 6. Basta seguir as instruções em cada um dos "programas" para testar as funcionalidades.
 
