@@ -14,13 +14,13 @@ Procedimentos para execução dos códigos:
 4. Acesse o subdiretório: desafioCapgemini/DesafioCapgemini/src
 5. Dentro do diretorio digite o comando: java "nome do arquivo", sem as aspas.
 A lista dos nome dos arquivos são:
-Q1Escada
-Q2Senha
-Q3Anagrama
+Q1Escada,
+Q2Senha,
+Q3Anagrama,
 
 Para executar digite em seu prompt ou terminal:
-java Q1Escada
-java Q2Senha
+java Q1Escada,
+java Q2Senha,
 java Q3Anagrama
 
 6. Basta seguir as instruções em cada um dos "programas" para testar as funcionalidades.
